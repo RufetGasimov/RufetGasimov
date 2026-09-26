@@ -1,9 +1,8 @@
 <!-- Üst Dalğa Animasiyası -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header" style="width: 100%;" />
 
 <div align="center">
   <!-- Yazan Mətn (Typewriter Effekti) -->
-  <!-- "The world is yours." və "Backend Developer" yazılır. -->
   <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=40&pause=1000&color=FFFFFF&vCenter=true&center=true&width=600&lines=The+world+is+yours.;Backend+Developer" alt="Typing SVG" />
 </div>
 
@@ -13,9 +12,11 @@
 <table align="center" style="border: 1px solid #30363d; background-color: #0d1117; width: 800px;">
   <tr>
     <td width="50%" style="border-right: 1px solid #30363d; padding: 20px;">
-      <pre style="background: transparent; color: #8b949e; font-family: monospace; font-size: 14px; border: none;">
+      <pre style="background: transparent; color: #8b949e; font-family: monospace; font-size: 14px; border: none; overflow: hidden;">
 ◈ Class   ➔ Backend Developer
 ◈ Origin  ➔ Azerbaijan 🇦🇿
+◈ Edu     ➔ Code Academy
+◈ Skills  ➔ Ai Prog, C#, .NET, Python, SQL
       </pre>
     </td>
     <td width="50%" align="center" style="padding: 20px;">
@@ -27,10 +28,18 @@
 
 <br><br>
 
+<!-- Texnologiyalar (İkonlar) Bölməsi -->
+<h3 align="center" style="color: #c9d1d9;">Technologies</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql,github,vscode&theme=dark" alt="Skills" />
+</div>
+
+<br><br>
+
 <!-- Statistika Bölməsi -->
 <h3 align="center" style="color: #c9d1d9;">Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RufatGasimov&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RufetGasimov&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </div>
 
 <br><br>
@@ -38,10 +47,10 @@
 <!-- Contribution Graph Bölməsi -->
 <h3 align="center" style="color: #c9d1d9;">Contributions</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RufatGasimov&bg_color=0d1117&color=ffffff&line=8b949e&point=FFFFFF&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RufetGasimov&bg_color=0d1117&color=ffffff&line=8b949e&point=FFFFFF&hide_border=true" style="width: 100%;" alt="Contribution graph" />
 </div>
 
 <br><br>
 
 <!-- Alt Dalğa Animasiyası -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=footer" style="width: 100%;" />
