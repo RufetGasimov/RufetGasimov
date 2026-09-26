@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 270">
+
+  <defs>
+
+    <linearGradient id="waveColor" x1="0" x2="1">
+      <stop offset="0%" stop-color="#010409"/>
+      <stop offset="35%" stop-color="#1f6feb"/>
+      <stop offset="65%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="worldClip">
+      <rect x="200" y="85" height="100" width="0">
+        <animate
+          attributeName="width"
+          dur="12s"
+          repeatCount="indefinite"
+          values="0;800;800;0;0"
+          keyTimes="0;0.30;0.40;0.48;1"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="backendClip">
+      <rect x="200" y="85" height="100" width="0">
+        <animate
+          attributeName="width"
+          dur="12s"
+          repeatCount="indefinite"
+          values="0;0;800;800"
+          keyTimes="0;0.52;0.86;1"/>
+      </rect>
+    </clipPath>
+
+  </defs>
+
+  <rect width="1200" height="270" fill="#010409"/>
+
+  <path
+    fill="none"
+    stroke="url(#waveColor)"
+    stroke-width="3"
+    opacity="0.85"
+    filter="url(#glow)">
+    <animate
+      attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+      M0 40 C180 5 300 80 480 35 S780 5 950 40 S1120 70 1200 35;
+      M0 30 C180 70 330 5 500 45 S780 80 950 25 S1100 5 1200 45;
+      M0 40 C180 5 300 80 480 35 S780 5 950 40 S1120 70 1200 35"/>
+  </path>
+
+  <path
+    fill="none"
+    stroke="#58a6ff"
+    stroke-width="1.5"
+    opacity="0.4">
+    <animate
+      attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+      M0 55 C180 20 350 90 520 45 S800 10 1000 55 S1150 70 1200 50;
+      M0 65 C200 100 350 15 540 60 S850 95 1000 40 S1150 15 1200 65;
+      M0 55 C180 20 350 90 520 45 S800 10 1000 55 S1150 70 1200 50"/>
+  </path>
+
+  <text
+    x="600"
+    y="165"
+    text-anchor="middle"
+    font-family="Georgia, Times New Roman, serif"
+    font-size="52"
+    font-weight="700"
+    letter-spacing="3"
+    fill="#58a6ff"
+    filter="url(#glow)"
+    clip-path="url(#worldClip)">
+    The world is yours.
+  </text>
+
+  <text
+    x="600"
+    y="165"
+    text-anchor="middle"
+    font-family="Georgia, Times New Roman, serif"
+    font-size="55"
+    font-weight="700"
+    letter-spacing="3"
+    fill="#58a6ff"
+    filter="url(#glow)"
+    clip-path="url(#backendClip)">
+    Backend Developer
+  </text>
+
+  <line
+    x1="70"
+    y1="230"
+    x2="1130"
+    y2="230"
+    stroke="#1f6feb"
+    stroke-width="1"/>
+
+</svg>
