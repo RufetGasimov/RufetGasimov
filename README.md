@@ -19,8 +19,8 @@
       </pre>
     </td>
     <td width="50%" align="center" style="padding: 20px;">
-       <!-- Eyni xaçı əlavə etmək üçün -->
-      <img src="XAC_GIF_LINKINI_BURAYA_YAZIN.gif" width="150" alt="Swinging Cross">
+       <!-- Sizin tapdığınız Xaç GIF-i -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl6azJtbGxyZHNwc3B5MTA0ajhpaWVycW1rZzFqYmZyeWczYmFuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n3UBd63oVlQLC/giphy.gif" width="150" alt="Swinging Cross">
     </td>
   </tr>
 </table>
