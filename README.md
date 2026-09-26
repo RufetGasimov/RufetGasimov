@@ -30,7 +30,7 @@
 <!-- Statistika Bölməsi -->
 <h3 align="center" style="color: #c9d1d9;">Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RufatGasimov&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </div>
 
 <br><br>
@@ -38,7 +38,7 @@
 <!-- Contribution Graph Bölməsi -->
 <h3 align="center" style="color: #c9d1d9;">Contributions</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ffffff&line=8b949e&point=FFFFFF&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RufatGasimov&bg_color=0d1117&color=ffffff&line=8b949e&point=FFFFFF&hide_border=true" alt="Contribution graph" />
 </div>
 
 <br><br>
