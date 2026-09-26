@@ -2,16 +2,22 @@
 
 # Hi, I'm Rufet Gasimov 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=AI+Programming+Student+at+Code+Academy;C%23+%26+.NET+Developer;Backend+Development+Enthusiast;Learning.+Building.+Improving." alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=39D353&center=true&vCenter=true&repeat=true&width=750&height=60&lines=AI+Programming+Student+at+Code+Academy+%F0%9F%A4%96;C%23+%26+.NET+Developer+%F0%9F%92%BB;Backend+Development+Enthusiast+%F0%9F%9A%80;SQL+Server+%7C+EF+Core+%7C+ADO.NET;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%8C%B1"
+  alt="Typing Animation"
+/>
 
 <br>
 
-### 💻 C# / .NET Developer &nbsp; • &nbsp; 🤖 AI Programming Student
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9a208ae6-4b38-49ea-bf83-49e9da78fc45.gif" width="300">
 
-<p>
-I am an <b>AI Programming student at Code Academy</b>, focused on building
-a strong foundation in software development, backend technologies and databases.
-</p>
+<br>
+
+### `> Building my future, one line of code at a time_`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=RufetGasimov&label=Profile%20Views&color=39D353&style=flat" />
 
 </div>
 
@@ -19,66 +25,21 @@ a strong foundation in software development, backend technologies and databases.
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **AI Programming at Code Academy**
-- 💚 Focused on **C# and .NET Development**
-- 🗄️ Working with **SQL Server, ADO.NET and Entity Framework Core**
-- 🧩 Learning **OOP, SOLID Principles and application architecture**
-- ⚙️ Building projects with **Service and Repository patterns**
-- 🧪 Practicing **Unit Testing and Moq**
-- 🌱 Currently improving my **Backend Development** skills
-- 🤖 Exploring **Python and Artificial Intelligence**
-- 🚀 I learn best by building real projects
+```csharp
+public class Developer
+{
+    public string Name { get; set; } = "Rufet Gasimov";
+    public string Education { get; set; } = "AI Programming - Code Academy";
+    public string Focus { get; set; } = "C# / .NET Backend Development";
+    public string Location { get; set; } = "Azerbaijan";
 
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,visualstudio,vscode,git,github&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL%20Server-39D353?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-239A3B?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ADO.NET-196127?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-</div>
-
----
-
-## 📚 What I'm Learning
-
-```text
-Backend Development
-│
-├── C# / .NET
-│   ├── OOP
-│   ├── LINQ
-│   ├── Async / Await
-│   ├── Dependency Injection
-│   └── Reflection
-│
-├── Database
-│   ├── SQL
-│   ├── SQL Server
-│   ├── ADO.NET
-│   ├── Entity Framework Core
-│   ├── CRUD Operations
-│   ├── Migrations
-│   └── Relationships
-│
-├── Software Architecture
-│   ├── Service Layer
-│   ├── Repository Pattern
-│   ├── SOLID Principles
-│   └── Dependency Injection
-│
-├── Testing
-│   ├── Unit Testing
-│   └── Moq
-│
-└── AI Programming
-    ├── Python
-    ├── Programming Fundamentals
-    └── Artificial Intelligence
+    public string[] CurrentlyLearning { get; set; } =
+    {
+        "C#",
+        ".NET",
+        "SQL Server",
+        "Entity Framework Core",
+        "Backend Development",
+        "Artificial Intelligence"
+    };
+}
