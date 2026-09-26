@@ -18,7 +18,7 @@ alt="Typing animation"
 <table>
 <tr>
 
-<td width="58%" valign="middle">
+<td width="52%" valign="middle">
 
 ## `> whoami`
 
@@ -48,9 +48,8 @@ status:
 
 </td>
 
-<td width="42%" align="center" valign="middle">
-
-<img src="./assets/symbol.svg" width="300"/>
+<td width="48%" align="center" valign="middle">
+  <img src="./assets/symbol.svg" width="420"/>
 
 </td>
 
