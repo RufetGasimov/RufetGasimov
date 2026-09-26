@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180">
+
+  <defs>
+    <linearGradient id="footerWave" x1="0" x2="1">
+      <stop offset="0%" stop-color="#010409"/>
+      <stop offset="35%" stop-color="#1f6feb"/>
+      <stop offset="65%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="180" fill="#010409"/>
+
+  <line x1="70" y1="35" x2="1130" y2="35" stroke="#1f6feb" stroke-width="1.2"/>
+
+  <text
+    x="600"
+    y="95"
+    text-anchor="middle"
+    font-family="Georgia, Times New Roman, serif"
+    font-size="28"
+    font-weight="700"
+    letter-spacing="2"
+    fill="#58a6ff"
+    filter="url(#glow)">
+    Code • Build • Improve
+  </text>
+
+  <path
+    fill="none"
+    stroke="url(#footerWave)"
+    stroke-width="3"
+    opacity="0.95"
+    filter="url(#glow)">
+    <animate
+      attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+      M0 125 C180 75 330 155 520 112 S820 72 1000 125 S1140 150 1200 108;
+      M0 112 C185 152 350 70 540 126 S835 155 1005 98 S1145 78 1200 120;
+      M0 125 C180 75 330 155 520 112 S820 72 1000 125 S1140 150 1200 108"/>
+  </path>
+
+  <path
+    fill="none"
+    stroke="#58a6ff"
+    stroke-width="1.5"
+    opacity="0.45">
+    <animate
+      attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+      M0 142 C200 95 355 170 560 132 S860 95 1040 142 S1155 160 1200 128;
+      M0 130 C205 172 365 90 565 145 S865 168 1045 118 S1160 92 1200 138;
+      M0 142 C200 95 355 170 560 132 S860 95 1040 142 S1155 160 1200 128"/>
+  </path>
+</svg>
