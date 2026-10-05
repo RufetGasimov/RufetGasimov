@@ -1,76 +1,73 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Animated Header">
-</p>
+<!--
+============================================================
+RUFET GASIMOV — GITHUB PROFILE README
+============================================================
 
-<br>
+REPLACE THESE PLACEHOLDERS:
 
-<div align="center">
-  <img
-    src="https://giphy.com/gifs/email-password-reset-S7u66urzxc2J2"
-    width="240"
-    height="240"
-    alt="Eye">
-</div>
+GitHub:RufetGasimov
+Mail:rufatgasimovv@gmail.com
 
-<br>
+
+============================================================
+-->
 
 <div align="center">
-  <pre>
-◆ Class   --> Backend Developer
-◆ Origin  --> Azerbaijan AZ
-◆ Edu     --> Code Academy
-◆ Skills  --> C# / .NET / Python / SQL
-  </pre>
+
+<img src="./assets/cyber-divider.svg" width="100%" alt="Cyber divider" />
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=1700&pause=1400&color=E6EDF3&center=true&vCenter=true&repeat=true&width=900&height=100&lines=Rufet+Gasimov;FullStack+Developer;The+World+is+Yours."
+  alt="Rufet Gasimov - FullStack Developer"
+/>
+
+<br/>
+
+<code>FULLSTACK DEVELOPMENT // BACKEND // FRONTEND // BUILD // IMPROVE</code>
+
+<br/><br/>
+
+<img src="./assets/cyber-divider.svg" width="100%" alt="Cyber divider" />
+
 </div>
 
-<br><br>
+<br/>
 
-<h2 align="center">Statistics</h2>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RufetGasimov&theme=github_dark"
-    height="190"
-    alt="GitHub Statistics">
+<img
+  src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif"
+  width="540"
+  alt="Developer animation"
+/>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RufetGasimov&theme=github_dark"
-    height="190"
-    alt="Most Used Languages">
-</p>
+</div>
 
-<br>
+<br/><br/>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RufetGasimov&theme=github_dark"
-    width="95%"
-    alt="Profile Details">
-</p>
+<!-- ===================================================== -->
+<!-- ABOUT ME -->
+<!-- ===================================================== -->
 
-<br><br>
+<h2 align="center">01 // ABOUT ME</h2>
 
-<h2 align="center">Contributions</h2>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/58A6FF/RufetGasimov"
-    width="95%"
-    alt="GitHub Contribution Graph">
-</p>
+<code>INITIALIZING DEVELOPER PROFILE...</code>
 
-<br><br>
+</div>
 
-<h2 align="center">Technologies</h2>
+<br/>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=cs,dotnet,py,mysql,github,vscode,visualstudio&theme=dark"
-    alt="Technologies">
-</p>
+```yaml
+> whoami
 
-<br><br>
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Animated Footer">
-</p>
+Name        : Rufet Gasimov
+Role        : FullStack Developer
+Focus       : Backend + Frontend
+Stack       : C# / .NET / JavaScript / SQL
+Learning    : Building better software every day
+Mindset     : Learn. Build. Improve.
+Status      : Turning ideas into code...
