@@ -6,7 +6,7 @@
 
 <div align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ5OXQ1Y3BybG00ZTB4NjEzNW42cHg2dHN5b2RmNXgxYm9paGRldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1154CgmtPPa4lq/giphy.gif"
+    src="https://giphy.com/gifs/email-password-reset-S7u66urzxc2J2"
     width="240"
     height="240"
     alt="Eye">
