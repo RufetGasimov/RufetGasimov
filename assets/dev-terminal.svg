@@ -1,0 +1,261 @@
+<svg
+  width="1000"
+  height="330"
+  viewBox="0 0 1000 330"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1000" y2="330">
+      <stop stop-color="#7DD3FC" stop-opacity="0.8"/>
+      <stop offset="0.5" stop-color="#30363D"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="1000" y2="0">
+      <stop stop-color="#7DD3FC" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7DD3FC" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect
+    x="2"
+    y="2"
+    width="996"
+    height="326"
+    rx="18"
+    fill="#0D1117"
+    stroke="url(#border)"
+    stroke-width="2"
+  />
+
+  <rect
+    x="2"
+    y="2"
+    width="996"
+    height="48"
+    rx="18"
+    fill="#161B22"
+  />
+
+  <line
+    x1="2"
+    y1="50"
+    x2="998"
+    y2="50"
+    stroke="#30363D"
+  />
+
+  <circle cx="28" cy="26" r="6" fill="#8B949E" opacity="0.55"/>
+  <circle cx="50" cy="26" r="6" fill="#7DD3FC" opacity="0.55"/>
+  <circle cx="72" cy="26" r="6" fill="#A78BFA" opacity="0.55"/>
+
+  <text
+    x="500"
+    y="31"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-size="14"
+    font-family="monospace"
+  >
+    rufet@github:~/workspace
+  </text>
+
+  <text
+    x="42"
+    y="88"
+    fill="#7DD3FC"
+    font-size="18"
+    font-family="monospace"
+  >
+    $
+  </text>
+
+  <text
+    x="65"
+    y="88"
+    fill="#E6EDF3"
+    font-size="18"
+    font-family="monospace"
+  >
+    dotnet run
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1"
+      keyTimes="0;0.05;0.10;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <text
+    x="42"
+    y="125"
+    fill="#8B949E"
+    font-size="16"
+    font-family="monospace"
+  >
+    Building application...
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1"
+      keyTimes="0;0.16;0.22;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <text
+    x="42"
+    y="166"
+    fill="#E6EDF3"
+    font-size="16"
+    font-family="monospace"
+  >
+    Backend
+    <tspan fill="#8B949E">  [ </tspan>
+    <tspan fill="#7DD3FC">ASP.NET Core</tspan>
+    <tspan fill="#8B949E"> | </tspan>
+    <tspan fill="#A78BFA">EF Core</tspan>
+    <tspan fill="#8B949E"> | SQL Server ]</tspan>
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1"
+      keyTimes="0;0.28;0.34;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <text
+    x="42"
+    y="205"
+    fill="#E6EDF3"
+    font-size="16"
+    font-family="monospace"
+  >
+    Frontend
+    <tspan fill="#8B949E"> [ </tspan>
+    <tspan fill="#7DD3FC">HTML</tspan>
+    <tspan fill="#8B949E"> | CSS | JavaScript ]</tspan>
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1"
+      keyTimes="0;0.40;0.47;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <text
+    x="42"
+    y="246"
+    fill="#E6EDF3"
+    font-size="16"
+    font-family="monospace"
+  >
+    Status
+    <tspan fill="#8B949E">   [ </tspan>
+    <tspan fill="#7DD3FC">Turning ideas into software</tspan>
+    <tspan fill="#8B949E"> ]</tspan>
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1"
+      keyTimes="0;0.53;0.60;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <text
+    x="42"
+    y="289"
+    fill="#7DD3FC"
+    font-size="17"
+    font-family="monospace"
+  >
+    &gt;
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1"
+      keyTimes="0;0.67;0.72;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <rect
+    x="66"
+    y="274"
+    width="10"
+    height="19"
+    fill="#E6EDF3"
+  >
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.9s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <rect
+    x="15"
+    y="54"
+    width="970"
+    height="2"
+    fill="url(#scan)"
+    filter="url(#softGlow)"
+  >
+    <animate
+      attributeName="y"
+      values="54;312;54"
+      dur="7s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.8;0"
+      dur="7s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <circle
+    cx="900"
+    cy="285"
+    r="3"
+    fill="#7DD3FC"
+    filter="url(#softGlow)"
+  >
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="1.6s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <text
+    x="915"
+    y="290"
+    fill="#8B949E"
+    font-size="11"
+    font-family="monospace"
+  >
+    ONLINE
+  </text>
+</svg>
