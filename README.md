@@ -32,7 +32,7 @@
 <div align="center">
 
 <img
-  src="https://giphy.com/gifs/team-programming-debugging-LS2WElet7iL31i3bxh"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG85aHRrYnF5djR1aHZhMWtlYnVzdnRwMTE5ZjloM2kybHYxbm5vMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LS2WElet7iL31i3bxh/giphy.gif"
   width="520"
   alt="Developer GIF"
 />
