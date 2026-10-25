@@ -1,12 +1,12 @@
 <!-- ===================================================== -->
-<!-- RUFET GASIMO - GITHUB PROFILE README -->
+<!-- RUFET GASIMOV - GITHUB PROFILE README -->
 <!-- Replace only YOUR_LINKEDIN_URL when ready -->
 <!-- ===================================================== -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:111827,100:0D1117&section=header&text=RUFET%20GASIMOV&fontColor=E6EDF3&fontSize=42&fontAlignY=35&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:111827,100:0D1117&section=header&text=PA%20203TEAM&fontColor=E6EDF3&fontSize=42&fontAlignY=35&animation=fadeIn"
   width="100%"
 />
 
