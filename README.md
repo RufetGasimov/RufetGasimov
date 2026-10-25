@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!-- RUFET GASIMOV - GITHUB PROFILE README -->
+<!-- RUFET GASIMO - GITHUB PROFILE README -->
 <!-- Replace only YOUR_LINKEDIN_URL when ready -->
 <!-- ===================================================== -->
 
