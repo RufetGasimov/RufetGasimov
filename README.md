@@ -6,7 +6,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:111827,100:0D1117&section=header&text=PA%20203TEAM&fontColor=E6EDF3&fontSize=42&fontAlignY=35&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:111827,100:0D1117&section=header&text=PA%20203 TEAM&fontColor=E6EDF3&fontSize=42&fontAlignY=35&animation=fadeIn"
   width="100%"
 />
 
