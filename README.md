@@ -11,7 +11,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1800&pause=1200&color=E6EDF3&center=true&vCenter=true&repeat=true&width=900&height=90&lines=Rufet+Gasimov;FullStack+Developer;The+World+is+Yours."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1800&pause=1200&color=E6EDF3&center=true&vCenter=true&repeat=true&width=900&height=90&lines=;Developer."
   alt="Typing Animation"
 />
 
